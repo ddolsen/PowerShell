@@ -1,5 +1,5 @@
-# Extracts the contents of an archive (.zip file) to a temporary directory
-# Recursively gets the directory names and number of items in each
+# Extracts the contents of .zip file to a temporary directory
+# Recursively gets the directory names and number of items in each directory
 # Displays the results in the console
 # Deletes the temporary directory
 # https://stackoverflow.com/questions/68663901/powershell-read-folder-name-and-count-file-in-a-zip-file/68671666#68671666
